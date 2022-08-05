@@ -33,6 +33,7 @@ color
 cls
 echo OurFlash Setup 运行完成.
 pause
+start thanks.html
 del setup.bat
 cls
 echo 您想留下OurFlash 安装完成flag吗？
